@@ -42,4 +42,5 @@ Floor 1 to 2 pay monthly payment in low rate.
 
 Calculate:<br>
 How much pay 1 floor or 7 floor?<br>
-How much pay 2-room flats?<br>
+How much pay all 2-room flats?<br>
+How much pay yearly all Building? Each Entrance?
